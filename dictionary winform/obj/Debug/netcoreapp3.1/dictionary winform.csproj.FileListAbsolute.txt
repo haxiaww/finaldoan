@@ -1,0 +1,42 @@
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.exe
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.deps.json
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.runtimeconfig.json
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.runtimeconfig.dev.json
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.dll
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.pdb
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.AssemblyInfo.cs
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.dll
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.pdb
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.genruntimeconfig.cache
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary_winform.login.resources
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary_winform.main.resources
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\bin\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+C:\Users\HP\source\repos\dictionary winform\dictionary winform\obj\Debug\netcoreapp3.1\dictionary_winform.Properties.Resources.resources
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.exe
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.deps.json
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.runtimeconfig.json
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.runtimeconfig.dev.json
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.dll
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\dictionary winform.pdb
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\bin\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary_winform.login.resources
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary_winform.main.resources
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary_winform.Properties.Resources.resources
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.AssemblyInfo.cs
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.dll
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.pdb
+C:\Users\HP\source\repos\dictionary winform final\dictionary winform\obj\Debug\netcoreapp3.1\dictionary winform.genruntimeconfig.cache
